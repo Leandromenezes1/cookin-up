@@ -38,3 +38,30 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Vue 3: entendendo componentes, diretivas e reatividade no framework
+
+### Criando projeto Vue
+
+```sh
+npm create vue@3.7.3
+```
+Obs: Serão dadas várias opções no console para a criação do projeto. Para esta implementação, escolher apenas a 'Add Typescript = Yes'.
+
+### Instalando as dependências do projeto Vue
+
+```sh
+npm install
+```
+
+### Corrigindo possíveis erros de dependências do projeto Vue
+
+```sh
+npm audit fix
+```
+
+### Rodando o projeto Vue
+
+```sh
+npm run dev
+```
